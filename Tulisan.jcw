@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Tulisan</label>
+	</settings>
+	<users>
+		<user>
+			<path>Tulisan.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Tulisan.jcp</path>
+		</project>
+	</projects>
+</workspace>
