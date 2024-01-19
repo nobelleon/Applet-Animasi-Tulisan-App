@@ -4,6 +4,6 @@
 
 Applet Animasi Tulisan App Made in Java.
 
-This for my --> [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6701461578996436992/?originTrackingId=KTXNeVGgTASyjpLnFxp6%2Fw%3D%3D) Applet Animasi Tulisan App.
+and this is for my --> [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6701461578996436992/?originTrackingId=KTXNeVGgTASyjpLnFxp6%2Fw%3D%3D) Demo Applet Animasi Tulisan App.
 
 
