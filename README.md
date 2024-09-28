@@ -8,4 +8,8 @@ Applet Animasi Tulisan App Made in Java.
 
 and this is my --> [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6701461578996436992/?originTrackingId=KTXNeVGgTASyjpLnFxp6%2Fw%3D%3D) Demo Applet Animasi Tulisan App.
 
+---
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nobelleon) 
+
 
